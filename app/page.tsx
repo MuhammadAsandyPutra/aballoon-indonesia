@@ -1130,7 +1130,7 @@ export default function HomePage() {
 
         <div className="ab-footer-bottom">
           <span>© 2025 Aballoon Indonesia. All rights reserved.</span>
-          <span>Instagram · WhatsApp · TikTok</span>
+          <span>Instagram · WhatsApp</span>
         </div>
       </footer>
     </>
